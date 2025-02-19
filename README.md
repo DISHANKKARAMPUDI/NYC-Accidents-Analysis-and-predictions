@@ -1,6 +1,5 @@
 # 🚗 NYC Accident Analysis (2020)
 
-![NYC Traffic](https://user-images.githubusercontent.com/placeholder-image.jpg)  
 *A data-driven exploration of traffic accidents in New York City*
 
 ## 📌 Overview
