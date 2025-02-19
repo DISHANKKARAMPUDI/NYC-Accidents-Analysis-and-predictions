@@ -29,28 +29,18 @@ The dataset (`NYC_Accidents_2020.csv`) contains **74,881 records** with **29 col
 - Analysis of accident frequency per **hour of the day**.  
 - Categorized into **Morning, Afternoon, Evening, and Late Night**.  
 - **Findings**: Peak accident hours are typically **afternoon and evening**.  
-
-**Example Visualization:**  
-![Accidents by Hour](assets/accidents_by_hour.png)  
-
 ---
 
 ### 📍 Accident Hotspots in NYC
 - Used **Folium** to create an **interactive heatmap**.  
 - Identified accident-prone areas based on geospatial data.  
-- **Findings**: Certain intersections and boroughs have consistently high accident rates.  
-
-**Example Visualization:**  
-![Accident Heatmap](assets/accident_heatmap.png)  
-
+- **Findings**: Certain intersections and boroughs have consistently high accident rates.
+- 
 ---
 
 ### 🚦 Accidents by Borough
 - Comparison of accident counts across **Manhattan, Brooklyn, Queens, Bronx, and Staten Island**.  
 - **Findings**: Brooklyn and the Bronx see the highest number of accidents.  
-
-**Example Visualization:**  
-![Accidents by Borough](assets/borough_accidents.png)  
 
 ---
 
